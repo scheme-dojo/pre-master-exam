@@ -13,3 +13,7 @@
 
 ## Sample
 - `biwas sample.scm`
+
+## To review
+- To review, a PR is required. Please fork the repository, create a quiz.scm file at the same level as quiz.md, and create a PR.
+- レビューするには、PRが必要です。リポジトリをフォークして、quiz.mdと同じ階層にquiz.scmファイルを作成して、PRを作ってください

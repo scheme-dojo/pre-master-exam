@@ -17,3 +17,7 @@
 ## To review
 - To review, a PR is required. Please fork the repository, create a quiz.scm file at the same level as quiz.md, and create a PR.
 - レビューするには、PRが必要です。リポジトリをフォークして、quiz.mdと同じ階層にquiz.scmファイルを作成して、PRを作ってください
+
+## About examination
+
+![スクリーンショット 2024-11-07 13 01 46](https://github.com/user-attachments/assets/a4ce1424-fc3f-4634-afa3-c5c1ac911992)

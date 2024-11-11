@@ -15,7 +15,7 @@
 # example
 
 ```
-(intersection '(1 2 3) '(2 3 4) '(3 4 5)) ; => '(3)
-(intersection '(a b c) '(b c d) '(c d e)) ; => '(c)
-(intersection '(1 2) '(3 4)) ; => '()
+(intersection '((1 2 3) (2 3 4) (3 4 5))) ; => '(3)
+(intersection '((a b c) (b c d) (c d e))) ; => '(c)
+(intersection '((1 2) (3 4))) ; => '()
 ```

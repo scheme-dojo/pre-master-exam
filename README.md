@@ -21,3 +21,9 @@
 ## About examination
 
 ![スクリーンショット 2024-11-07 13 01 46](https://github.com/user-attachments/assets/a4ce1424-fc3f-4634-afa3-c5c1ac911992)
+
+
+## Exam Rule
+- Enable to use google, book, your note.
+- not using multi screen
+- not using ChatGPT

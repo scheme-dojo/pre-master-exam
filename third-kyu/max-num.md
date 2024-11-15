@@ -1,7 +1,7 @@
 # max-num
 
 # question
-- Write a function intersection that takes multiple sets (lists) as arguments and returns a list of elements that are common to all sets.
+- Create a function max-num that takes two numbers as arguments and returns the larger number.
 - If the definition is insufficient, please define it yourself.
 
 - 二つの数字を引数として受け取り、大きい方の数字を返す関数 max-num を作成してください。

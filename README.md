@@ -5,7 +5,6 @@
 # Scheme Dojo lank system
 ![スクリーンショット 2024-11-07 12 50 53](https://github.com/user-attachments/assets/364c66ba-0890-4c8b-8168-6e2f1e2dedcd)
 
-
 ## Setup
 - please use biwascheme for scheme runtime
 - [How to use with node.js to run a biwa script
@@ -27,3 +26,8 @@
 - Enable to use google, book, your note.
 - not using multi screen
 - not using ChatGPT
+
+
+## Discord Link
+- welcome to Scheme Dojo discord
+- https://discord.gg/PagxNgWzFM

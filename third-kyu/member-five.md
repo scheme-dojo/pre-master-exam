@@ -1,7 +1,7 @@
 # member-five*
 
 # question
-- 
+- Write the function member-five*. member-five* takes a list as an argument and returns #t if the list contains 5, and #f otherwise.
 - If the definition is insufficient, please define it yourself.
 
 - 関数member-five* を書いてください。member-five* はリストを引数として取り、5を含めば #t , それ以外は #fを返します

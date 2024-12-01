@@ -1,7 +1,7 @@
 # product-all
 
 # question
-- Create a function max-num that takes two numbers as arguments and returns the larger number.
+- Create a function product-all. This function takes a list as an argument and returns the product of all the numbers in the list.
 - If the definition is insufficient, please define it yourself.
 
 - 関数product-allを作成してください。この関数は、リストを受け取り、そのリスト内のすべての数字を掛け合わせた結果を返します。

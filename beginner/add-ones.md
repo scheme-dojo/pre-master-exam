@@ -14,7 +14,7 @@
 (print (add-ones '()))
 ; => ()
 
-(print (add-oes '(1)))
+(print (add-ones '(1)))
 ; => (2)
 
 (print (add-ones '(1 3 5)))

@@ -9,6 +9,8 @@
 - A list lst.
 - filter-and-apply returns a list containing the result of applying f to the elements of lst that satisfy pred.
 
+---
+
 - 以下の要件を満たす関数 filter-and-apply を定義してください。
 
 - filter-and-apply は次の3つの引数を取ります。

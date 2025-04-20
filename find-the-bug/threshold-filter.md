@@ -15,7 +15,7 @@
       (cond
         ((null? lst) '())
         ((> threshold (car lst))
-         (threshold-filter threshold (cdr lst))) ; ←バグ？
+         (threshold-filter threshold (cdr lst)))
         (else
          (cons (car lst)
                ((threshold-filter threshold) (cdr lst))))))))
